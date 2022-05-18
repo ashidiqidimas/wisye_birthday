@@ -1,0 +1,20 @@
+body {
+    background: #EBFAFC;
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 64px 96px;
+    gap: 10px;
+}
+
+header .header-img {
+    height: 75vh;
+}
+
+header .header-headline {
+    height: 60vh;
+}
